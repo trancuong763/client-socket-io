@@ -1,3 +1,5 @@
 # client-socket-io
-# Chỉ cần nhấn vào file index là chạy được 
-# Good lucky
+# How to start
+  - Chỉ cần mở file index.html là chạy thành công
+  - Nhớ clone source serve-socket-io để test nhé
+  - Best of luck!
